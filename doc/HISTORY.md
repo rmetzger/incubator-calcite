@@ -3,7 +3,7 @@
 For a full list of releases, see
 <a href="https://github.com/apache/incubator-calcite/releases">github</a>.
 
-## <a href="https://github.com/apache/incubator-calcite/releases/tag/calcite-0.9.2-incubating">0.9.2-incubating</a> / 2014-11-05
+## <a href="https://github.com/apache/incubator-calcite/releases/tag/calcite-0.9.2-incubating-SNAPSHOT">0.9.2-incubating-SNAPSHOT</a> / 2014-11-05
 
 A fairly minor release, and last release before we rename all of the
 packages and lots of classes, in what we expect to call 1.0. If you
